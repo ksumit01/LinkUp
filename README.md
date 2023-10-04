@@ -46,7 +46,7 @@ Watch our guided video walkthrough: [Link to Feature Walkthrough](https://youtub
 6. Stay informed with real-time or email notifications.
 7. Monitor project and task analytics for data-driven decisions.
 
-### **ER Diagram
+### **ER Diagram**
 ![Alt Text](DB_Schema_LinkUp.png)
 
 ### **API Endpoints**
