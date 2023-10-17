@@ -1,0 +1,36 @@
+/* project-details.component.css */
+.project-card {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px lightblue;
+  background-color: #fff;
+  margin-bottom: 20px;
+}
+
+.project-details h2 {
+  background-color: #53afa2;
+  color: #fff;
+  padding: 10px;
+  margin-top: 0;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.project-details p {
+  margin: 10px 0;
+}
+
+.project-details button {
+  background-color: #ff0000;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.project-details button:hover {
+  background-color: #d00000;
+}

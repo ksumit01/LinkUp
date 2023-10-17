@@ -1,0 +1,67 @@
+.mainDiv {
+  width: 100%;
+  box-shadow: 10px 10px 5px lightblue;
+}
+
+.main {
+  margin-top: 62px;
+  padding: 2rem 1.5rem;
+  background: #16293a;
+  min-height: calc(100vh - 90px);
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 20px;
+}
+
+.card-single {
+  display: flex;
+  justify-content: space-between;
+  background: #443737;
+  padding: 2rem;
+  border-radius: 2px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px lightblue;
+}
+
+.card-single div:last-child span {
+  font-size: 3rem;
+  color: var(--main-color);
+  text-align: center;
+}
+.card-single div:first-child span {
+  color: var(--text-grey);
+}
+.card-single:last-child {
+  background: var(--main-color);
+  width: 600px;
+  white-space: normal;
+  text-align: center;
+  align-items: center;
+}
+
+.card-single:last-child h1,
+.card-single:last-child div:first-child span,
+.card-single:last-child div:last-child span {
+  color: #bf2020;
+  font-size: 30px;
+  line-height: 1;
+  text-align: center;
+}
+.card-single h1 {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+/* .calenderDiv{
+width: 400px;
+height: 400px;
+} */
+a {
+  text-decoration: none;
+  color: rgb(181, 162, 162);
+}
