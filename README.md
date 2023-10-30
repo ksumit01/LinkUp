@@ -9,11 +9,11 @@ LinkUp is a robust project management application designed to streamline collabo
 
 ### **Platform Access**
 
-Access the LinkUp platform at [https://vimeo.com/875063300/f386e0e3f2?share=copy]
+Access the LinkUp platform at https://vimeo.com/875063300/f386e0e3f2?share=copy
 
 ### **Feature Walkthrough**
 
-Watch our guided video walkthrough: [Link to Feature Walkthrough](https://youtube-link-to-walkthrough/)
+Watch our guided video walkthrough: https://vimeo.com/875063300/f386e0e3f2?share=copy
 
 ### **Key Features**
 
