@@ -16,10 +16,10 @@ Access the LinkUp platform at https://vimeo.com/875063300/f386e0e3f2?share=copy
 Watch our guided video walkthrough: https://vimeo.com/875063300/f386e0e3f2?share=copy
 
 ### **Tech Stack**
-1 Java
-2 Angular
-3 SpringBoot
-4 Prompt Engineering
+- Java
+- Angular
+- SpringBoot
+- Prompt Engineering
 
 ### **Key Features**
 
