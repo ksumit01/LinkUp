@@ -15,6 +15,12 @@ Access the LinkUp platform at https://vimeo.com/875063300/f386e0e3f2?share=copy
 
 Watch our guided video walkthrough: https://vimeo.com/875063300/f386e0e3f2?share=copy
 
+### **Tech Stack**
+. Java
+. Angular
+.SpringBoot
+.Prompt Engineering
+
 ### **Key Features**
 
 - **User Management**: Register, login, and manage user roles (Admin, Project Manager, Team Member).
